@@ -1,13 +1,10 @@
-
-
-
 # 📦 FIAP — Eng. Software — Dynamic Programming (Checkpoint 1)
 
 > Simulação de um Centro de Distribuição Logístico e de um Sistema de Fretes/Entregas utilizando estruturas de dados avançadas e algoritmos de ordenação em Python.
 
 🔗 **Links Rápidos:**
-- [Acessar Notebook do Projeto](INSERIR_LINK_DO_NOTEBOOK_AQUI)
-- [Acessar Relatório Técnico (PDF)](INSERIR_LINK_DO_RELATORIO_AQUI)
+- [Acessar Notebook do Projeto](https://colab.research.google.com/drive/1We8FWKgsPQdg0ClhflzPHvBAScLccbwE?usp=sharing)
+- [Acessar Relatório Técnico (PDF)](https://github.com/LucasZanellaClemente/Dynamic-Programming/blob/main/RelatorioCheckpoint.pdf)
 
 ---
 
@@ -18,7 +15,7 @@ Este projeto propõe uma solução em Python para dois cenários logísticos rea
 1. **Centro de Distribuição Logístico (PAR):** Fila de priorização de pedidos com base no nível de urgência (Alta, Média, Baixa) e valor unitário.
 2. **Sistema de Fretes e Entregas (ÍMPAR):** Organização de cargas utilizando ordenação multicritério (Prioridade VIP/Normal, Prazos Curtos e Valor do Frete).
 
-*Nota: Para detalhes aprofundados sobre as decisões de design, justificativas de complexidade e prints dos resultados, consulte nosso [Relatório Técnico](INSERIR_LINK_DO_RELATORIO_AQUI).*
+*Nota: Para detalhes aprofundados sobre as decisões de design, justificativas de complexidade e prints dos resultados, consulte nosso [Relatório Técnico](https://github.com/LucasZanellaClemente/Dynamic-Programming/blob/main/RelatorioCheckpoint.pdf).*
 
 ---
 
